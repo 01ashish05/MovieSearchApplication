@@ -14,4 +14,10 @@
   <li>Can find any movie and web series</li>
 </ul>
 <h1 align="center">UI(User Interface) of Web Application</h1>
-!()[./pic1.jpg]
+
+![This is an Image](pic3.jpeg)
+
+![This is an Image](pic2.jpeg)
+
+![This is an Image](pic1.jpeg)
+
